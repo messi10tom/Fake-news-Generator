@@ -1,1 +1,1 @@
-# Fake-news-Generator
+# Generator
