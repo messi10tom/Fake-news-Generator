@@ -1,6 +1,6 @@
-i'm using "News Category Dataset" Dataset by Rishabh Misra(https://www.kaggle.com/rmisra)
-thanks to mr Misra for the Dataset. You can check the Dataset(https://www.kaggle.com/datasets/rmisra/news-category-dataset).
+I'm using "News Category Dataset" Dataset by Rishabh Misra(https://www.kaggle.com/rmisra)
+thanks to Mr Misra for the Dataset. You can check the Dataset(https://www.kaggle.com/datasets/rmisra/news-category-dataset).
 To download you can use the following command.
-                    !pip install kaggle
-                    !kaggle datasets download -d rmisra/news-category-dataset
-                    !unzip news-category-dataset.zip
+                    pip install kaggle
+                    kaggle datasets download -d rmisra/news-category-dataset
+                    unzip news-category-dataset.zip
